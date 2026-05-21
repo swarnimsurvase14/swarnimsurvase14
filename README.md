@@ -38,18 +38,7 @@ A passionate AI & web developer from India, building cool things with code.
 
 ---
 
-## 🚀 Featured Projects:
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🤖 To-Do List AI Agent](https://github.com/swarnimsurvase14/To-Do-List-A.I-Agent) | An intelligent task manager powered by AI | HTML, JS |
-| [🧠 GenAI Tools & Techniques](https://github.com/swarnimsurvase14/GenAI-Tools-Techniques) | Exploring Generative AI tools and methods | Jupyter, Python |
-| [👁️ Eye Strain AI Detector](https://github.com/swarnimsurvase14/eyestrain_ai_detector) | Detects eye strain using AI | JavaScript |
-| [💪 FitVerse](https://github.com/swarnimsurvase14/FitVerse) | A fitness-focused web application | TypeScript |
-| [📓 DEVL Mini Project](https://github.com/swarnimsurvase14/DEVL-mini-project) | Development and learning project | Jupyter |
-| [🔐 CNS](https://github.com/swarnimsurvase14/CNS) | Cryptography & Network Security project | Java |
-
----
 
 ## 📊 GitHub Stats:
 

@@ -4,20 +4,15 @@ A passionate AI & web developer from India, building cool things with code.
 
 🎓 B.Tech Student in Computer Science
 
-🤖 Exploring Generative AI — tools, techniques, and real-world applications
-
-🌐 Building web apps and AI-powered projects
-
-📬 Reach me at: **your@email.com**
+📬 Reach me at: **swarnim450sng@gmail.com**
 
 ---
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YOUR_ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swarnimsurvase14)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/swarnimsurvase)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SwarnimSurvase)
 
 ---
 
@@ -35,34 +30,3 @@ A passionate AI & web developer from India, building cool things with code.
 ![OpenAI](https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🚀 Featured Projects:
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🤖 To-Do List AI Agent](https://github.com/swarnimsurvase14/To-Do-List-A.I-Agent) | An intelligent task manager powered by AI | HTML, JS |
-| [🧠 GenAI Tools & Techniques](https://github.com/swarnimsurvase14/GenAI-Tools-Techniques) | Exploring Generative AI tools and methods | Jupyter, Python |
-| [👁️ Eye Strain AI Detector](https://github.com/swarnimsurvase14/eyestrain_ai_detector) | Detects eye strain using AI | JavaScript |
-| [💪 FitVerse](https://github.com/swarnimsurvase14/FitVerse) | A fitness-focused web application | TypeScript |
-| [📓 DEVL Mini Project](https://github.com/swarnimsurvase14/DEVL-mini-project) | Development and learning project | Jupyter |
-| [🔐 CNS](https://github.com/swarnimsurvase14/CNS) | Cryptography & Network Security project | Java |
-
----
-
-## 📊 GitHub Stats:
-
-<div align="center">
-
-![Swarnim's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=swarnimsurvase14&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swarnimsurvase14&theme=dark&hide_border=true&layout=compact)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swarnimsurvase14&theme=github-compact&hide_border=true)
-
-</div>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=swarnimsurvase14&icon=0&color=6)](https://visitcount.itsvg.in)

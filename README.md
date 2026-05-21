@@ -1,6 +1,6 @@
 # 🤖 About Me:
 
-A passionate AI & web developer from India, building cool things with code.
+A passionate developer from Pune, Maharashtra
 
 🎓 B.Tech Student in Computer Science
 
